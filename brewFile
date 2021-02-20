@@ -1,0 +1,31 @@
+#brew "cask"
+#brew "mas"
+brew "zsh-syntax-highlighting"
+
+tap "homebrew/cask-fonts"
+
+cask "fastlane"
+cask "fork"
+cask "iterm2"
+cask "google-chrome"
+cask "notion"
+cask "slack"
+cask "telegram"
+cask "visual-studio-code"
+cask "docker"
+cask "karabiner-elements"
+cask "shiftit"
+cask "iina"
+cask "keka"
+cask "scroll-reverser"
+cask "macs-fan-control"
+
+# mas search Xcode
+mas "Xcode", id: 497799835
+mas "Apple Configurator 2", id: 1037126344
+mas "KakaoTalk", id: 869223134
+mas "Jump Desktop (RDP, VNC, Fluid)", id: 524141863
+mas "GoodNotes 5", id: 1444383602  
+mas "Spark – Email App by Readdle", id: 1176895641
+mas "Apple Configurator 2", id: 1037126344
+mas "Amphetamine", id: 937984704
