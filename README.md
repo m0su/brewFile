@@ -1,4 +1,5 @@
 # brewFile
+
 ### install
 1. homebrew install
 ```shell
@@ -14,3 +15,5 @@ https://github.com/m0su/brewFile.git
 ```
 brew bundle
 ```
+
+# 앱 빌드셋팅 
