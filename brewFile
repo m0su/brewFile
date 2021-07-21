@@ -33,6 +33,7 @@ cask "jandi"
 cask "cyberduck"
 brew "awscli"
 cask "itsycal"
+cask "dbeaver-community"
 
 # mas search Xcode
 # mas "Apple Configurator 2", id: 1037126344
