@@ -34,6 +34,8 @@ cask "cyberduck"
 brew "awscli"
 cask "itsycal"
 cask "dbeaver-community"
+cask "monitorcontrol"
+cask "hiddenbar"
 
 # mas search Xcode
 # mas "Apple Configurator 2", id: 1037126344
